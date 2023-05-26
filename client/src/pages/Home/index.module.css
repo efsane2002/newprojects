@@ -1,0 +1,20 @@
+.div{
+    background: url('https://preview.colorlib.com/theme/gym/img/header-bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 850px;
+}
+.div2{
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 850px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div2 h1{
+    color: white;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}

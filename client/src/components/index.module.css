@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ul{
+    display: flex;
+    justify-content: center;
+    gap:15px;
+    width: 70%;
+    margin: 0 auto;
+    height: 60px;
+    align-items: center;
+}
+.ul li{
+    list-style: none;
+}
+@media only screen and (max-width: 500px) {
+    .ul {
+      display: "none";
+    }
+  }

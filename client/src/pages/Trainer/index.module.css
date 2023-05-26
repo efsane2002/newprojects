@@ -1,0 +1,24 @@
+.div3{
+    background-image: url('https://preview.colorlib.com/theme/gym/img/callto-bg.jpg.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 350px;
+}
+.div4{
+    background: rgba(0, 0, 0, 0.6);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 350px;
+}
+.h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 500px;
+    padding-top: 140px;
+}
+.p{
+    width: 800px;
+    text-align: center;
+    margin: 10px auto;
+}
